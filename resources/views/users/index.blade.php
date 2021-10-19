@@ -32,8 +32,8 @@
                     <thead>
                     <tr>
                         <th width="20">No</th>
-                        <th>Nama </th>
-                        <th>Role </th>
+                        <th>Name </th>
+                        <th>Domains </th>
                         <th width="100">Actions</th>
                     </tr>
                     </thead>

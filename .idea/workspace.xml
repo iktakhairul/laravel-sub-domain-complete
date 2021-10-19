@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a741e9a-a6a9-4912-b6f4-2e605eefafab" name="Changes" comment="" />
+    <list default="true" id="6a741e9a-a6a9-4912-b6f4-2e605eefafab" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/users/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/users/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/9cqamOTHRX0WSVrGVBfzB4wZojjMQPG3nNnW0Nlx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/B6BpqbqRiEezmicBBzuxBhfMbu9ixyTQiPm6B3iR" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/MgCwYZs6IdQZR8K6gUrQ7DLIY7y978hEQjT8P1xt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/PYjT5vPWl8DJz5S8TRQjPylKirCEd1UAcCbumaG7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/TqS1YfL0E2rx3ZQ7w2kcZKrS9xdSXd7sAprabtcs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/aJ8B2PXEzONf5eNqWBfQfqzuMXa2zp0vx54YqdWK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/agz7tElptIXaXAza3AgP7gmgWbdyf6tAOYeP9Brz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/nnCkaJjEyVk0MWp27ewZg3eTRXVPFQzG38c6nDcW" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/olq2UEeLRpuCmLf0OnYvJScQKQRhxsoiO0sXCPL2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/qrGY8pWgMyUJGpQh3uEcY71U1RLEDtzf6cM3GU2F" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/vM48Dfu6bOPz94w4KOfy9KulXx0JFGhHRJkDb92L" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/vRTvXp27VDcVVb6RXkpa8mjfk29hZOG4VHEQ5Iv5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/vW8V5sxVlCyCLp3uPyyJy9SwtZ0DAT3yc219pKPy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/zenNgcOMwSENZRPrYR3Rkx3VdJQ0EoI19bXhm4aa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/1eb2235d04d9242c4414c9a79f51b5d8678247d7.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/1f26a0fe7956055dc3bc0d01e0cbdc7161af02ed.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/3c00a84eafca4f3280683f0d5145577d4852ee94.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/604cff6c8e1a8f27d1520ac5cc21950544f8d6f4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/8a00ae8d98f01b87048bbe3ea4a67e90e338ae5a.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/c425d2321cd63b422109f20c95789a4512ec63ee.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/f85e75c0e31ca43a36868cfc4612d28fc1964195.php" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -137,7 +162,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/storage/framework/testing" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -145,6 +170,10 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/storage/framework/testing" />
+      <recent name="$PROJECT_DIR$/storage/framework/views" />
+      <recent name="$PROJECT_DIR$/storage/framework/sessions" />
+      <recent name="$PROJECT_DIR$/storage/framework/cache" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -159,7 +188,7 @@
       <workItem from="1634552795005" duration="1278000" />
       <workItem from="1634554606260" duration="1162000" />
       <workItem from="1634560712961" duration="66000" />
-      <workItem from="1634561877278" duration="24173000" />
+      <workItem from="1634561877278" duration="26108000" />
     </task>
     <servers />
   </component>
